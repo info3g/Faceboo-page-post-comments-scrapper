@@ -1,4 +1,4 @@
-# Faceboo-page-post-comments-scrapper
+# Facebook-page-post-comments-scrapper
 
 Facebook Page Post Scraper
 UPDATE December 2017: Due to a bug on Facebook's end, using this scraper will only return a very small subset of posts (5-10% of posts) over a limited timeframe. Since Facebook now owns CrowdTangle, the (paid) canonical source of historical Facebook data, Facebook doesn't have an incentive to fix the linked bug.
